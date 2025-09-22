@@ -57,15 +57,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|         2000-44         |          2004-88         |
+|         2001-44         |          2005-88         |
+|         2002-44         |                          |
+|         2003-44         |                          |
 #### Manual Calculations
 
-(Add your calculation here)
+![IMG-20250922-WA0043 1](https://github.com/user-attachments/assets/0cddde4b-5d12-4511-8ebc-441ebe6dbd8e)
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="637" height="431" alt="Screenshot 2025-09-19 075144" src="https://github.com/user-attachments/assets/289afe13-2609-4a9c-ae85-7100ecaec81d" />
+
 
 ## 2. SUBTRACTION
 
@@ -108,16 +113,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|        2000-99          |         2004-44          |
+|        2001-99          |         2005-44          |
+|        2002-55          |                          |
+|        2003-55          |                          |
 #### Manual Calculations
 
-(Add your calculation here)
+![IMG-20250922-WA0047 1](https://github.com/user-attachments/assets/c2c50271-ab94-4805-b37b-3f0481900358)
 
----
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="635" height="432" alt="image" src="https://github.com/user-attachments/assets/1b988584-774e-433e-86e4-b4e2a2851f24" />
+
 
 ## 3. MULTIPLICATION
 
@@ -157,15 +165,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|    2000-22              |          2005-42         |
+|    2001-22              |          2006-86         |
+|    2002-11              |          2007-46         |
+|    2003-11              |          2008-02         |
 #### Manual Calculations
+![IMG-20250922-WA0044 1](https://github.com/user-attachments/assets/e081b667-e813-4d17-ba0f-d27c0919cbf5)
 
-(Add your calculation here)
-
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="641" height="427" alt="image" src="https://github.com/user-attachments/assets/d4522243-cbb5-4d4a-a2cf-a27f2e756ba1" />
+
 
 ## 4. DIVISION
 
@@ -202,14 +212,18 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|       2000-66           |        2004-02           |
+|       2001-66           |        2005-00           |
+|       2002-33           |        2006-00           |
+|       2003-33           |        2007-00           |
 #### Manual Calculations
 
-(Add your calculation here)
+![IMG-20250922-WA0048 1](https://github.com/user-attachments/assets/054043a7-5bc9-49f0-9ecc-8f0876629c31)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="642" height="432" alt="image" src="https://github.com/user-attachments/assets/300366a7-b07d-466c-8207-c488da2168a9" />
 
 
 

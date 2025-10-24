@@ -28,8 +28,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-<img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
+<img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 #### Program
 
@@ -57,20 +57,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|         2000-44         |          2004-88         |
-|         2001-44         |          2005-88         |
-|         2002-44         |                          |
-|         2003-44         |                          |
+|         2000-44         |          2004-99         |
+|         2001-44         |          2005-99         |
+|         2002-55         |                          |
+|         2003-55         |                          |
+
 #### Manual Calculations
 
-![IMG-20250922-WA0043 1](https://github.com/user-attachments/assets/0cddde4b-5d12-4511-8ebc-441ebe6dbd8e)
-
+![IMG-20251024-WA0008 1](https://github.com/user-attachments/assets/90284e82-3c41-47bf-9ffe-07f9ccbcd24d)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="637" height="431" alt="Screenshot 2025-09-19 075144" src="https://github.com/user-attachments/assets/289afe13-2609-4a9c-ae85-7100ecaec81d" />
-
 
 ## 2. SUBTRACTION
 
@@ -85,7 +84,6 @@ END
 ## FLOWCHART
 
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
-
 
 #### Program
 ```asm
@@ -108,7 +106,6 @@ CODE ENDS
 END
 ```
 
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -117,15 +114,14 @@ END
 |        2001-99          |         2005-44          |
 |        2002-55          |                          |
 |        2003-55          |                          |
+
 #### Manual Calculations
 
-![IMG-20250922-WA0047 1](https://github.com/user-attachments/assets/c2c50271-ab94-4805-b37b-3f0481900358)
-
-
+![IMG-20251024-WA0014 1](https://github.com/user-attachments/assets/4ac05c07-efeb-407f-9727-4a4d93589be3)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="635" height="432" alt="image" src="https://github.com/user-attachments/assets/1b988584-774e-433e-86e4-b4e2a2851f24" />
 
+<img width="635" height="432" alt="image" src="https://github.com/user-attachments/assets/1b988584-774e-433e-86e4-b4e2a2851f24" />
 
 ## 3. MULTIPLICATION
 
@@ -139,8 +135,6 @@ END
 ##FLOWCHART
 
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -170,12 +164,12 @@ END
 |    2002-11              |          2007-46         |
 |    2003-11              |          2008-02         |
 #### Manual Calculations
-![IMG-20250922-WA0044 1](https://github.com/user-attachments/assets/e081b667-e813-4d17-ba0f-d27c0919cbf5)
 
+![IMG-20251024-WA0016 1](https://github.com/user-attachments/assets/a09ceed0-5576-4cd0-85fe-3c767d7493d4)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="641" height="427" alt="image" src="https://github.com/user-attachments/assets/d4522243-cbb5-4d4a-a2cf-a27f2e756ba1" />
 
+<img width="641" height="427" alt="image" src="https://github.com/user-attachments/assets/d4522243-cbb5-4d4a-a2cf-a27f2e756ba1" />
 
 ## 4. DIVISION
 
@@ -186,8 +180,8 @@ END
 3. Store result.
 
    ## FLOWCHART
+   
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
-
 
 #### Program
 
@@ -218,14 +212,12 @@ END
 |       2003-33           |        2007-00           |
 #### Manual Calculations
 
-![IMG-20250922-WA0048 1](https://github.com/user-attachments/assets/054043a7-5bc9-49f0-9ecc-8f0876629c31)
-
+![IMG-20251024-WA0015 1](https://github.com/user-attachments/assets/9a5a5db2-4d2f-4091-b581-2c721541e668)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
 <img width="642" height="432" alt="image" src="https://github.com/user-attachments/assets/300366a7-b07d-466c-8207-c488da2168a9" />
-
-
 
 ## RESULT
 
